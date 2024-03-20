@@ -1,5 +1,5 @@
 //Cambiar si hay nuevos personajes
-const PERSONAJES = ["Astra", "Breach", "Brimstone", "Chamber", "Cypher", "Deadlock", "Fade", "Gekko", "Harbor", "Iso", "Jett", "KAY_O", "Killjoy","Neon","Omen","Phoenix","Raze", "Reyna","Sage","Skye","Sova","Viper","Yoru"]
+const PERSONAJES = ["Astra", "Breach", "Brimstone", "Chamber", "Cypher", "Deadlock", "Fade", "Gekko", "Harbor", "Iso", "Jett", "KAY-O", "Killjoy","Neon","Omen","Phoenix","Raze", "Reyna","Sage","Skye","Sova","Viper","Yoru"]
 const NUM_PERSONAJES = PERSONAJES.length;
 
 
