@@ -1,3 +1,11 @@
-img{
+img {
     height: 30rem;
+}
+
+#copyPastes img {
+    height: 8rem;
+}
+
+#monke{
+   display: none;
 }
